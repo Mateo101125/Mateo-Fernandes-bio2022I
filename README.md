@@ -1,3 +1,4 @@
+
 # Bioinformatica 2022I
 ## Datos personales
 - Mateo Fernandez
@@ -13,3 +14,4 @@
 
 ##  Ejecucion 
 Este repositorio se tiene almacenado las tareas, la data y los exámenes de Bioinformatica.
+Uso de GitHub texto para control de la versión
